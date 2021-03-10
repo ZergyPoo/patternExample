@@ -1,0 +1,26 @@
+# Misc
+*.swp
+.DS_Store
+
+# CumulusCI and SFDX
+*.pyc
+.sfdx/
+.cci/
+.manifest
+build.properties
+
+# IDEs
+.idea/**
+
+# JS and dependencies
+node_modules/
+.yarn/*
+
+# Jest
+/browser_tests
+/test_results.xml
+/log.html
+/output.xml
+/report.html
+robot/SAL/results/
+coverage/

@@ -1,0 +1,10 @@
+minimum_cumulusci_version: 3.28.0
+project:
+    name: patternExample
+    package:
+        api_version: 50.0
+
+    git:
+        repo_url: https://github.com/ZergyPoo/patternExample
+
+    source_format: sfdx

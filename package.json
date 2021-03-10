@@ -1,0 +1,17 @@
+{
+  "name": "patternExample",
+  "author": "Salesforce.org",
+  "license": "UNLICENSED",
+  "private": false,
+  "keywords": [
+    "none"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZergyPoo/patternExample.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "resolutions": {}
+}
